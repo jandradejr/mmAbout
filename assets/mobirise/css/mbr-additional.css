@@ -1295,11 +1295,12 @@ body {
 .cid-qz6MJKpSvk .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #232323;
+  background: #081b63;
+  background: none;
 }
 .cid-qz6MJKpSvk .navbar.opened {
   transition: all .3s;
-  background: #232323 !important;
+  background: #081b63 !important;
 }
 .cid-qz6MJKpSvk .navbar .dropdown-item {
   padding: .235rem 1.5rem;
@@ -1386,7 +1387,7 @@ body {
   }
 }
 .cid-qz6MJKpSvk .navbar.navbar-short {
-  background: #232323 !important;
+  background: #081b63 !important;
   min-height: 60px;
 }
 .cid-qz6MJKpSvk .navbar.navbar-short .navbar-logo img {
@@ -1425,7 +1426,7 @@ body {
   padding: 0.667em 1.667em;
 }
 .cid-qz6MJKpSvk .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #232323;
+  background: #081b63;
 }
 .cid-qz6MJKpSvk .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
