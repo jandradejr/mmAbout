@@ -1568,7 +1568,11 @@ body {
   color: #ffffff;
 }
 .cid-qyTwOPaazT .mbr-section-subtitle {
-  color: #f2f3ae;
+  color: #ffffff;
+}
+.cid-qyTwOPaazT .mbr-section-title,
+.cid-qyTwOPaazT .mbr-section-btn {
+  color: #0c57bf;
 }
 .cid-qA9SgciEr0 {
   padding-top: 105px;
